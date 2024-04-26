@@ -1,0 +1,26 @@
+{
+    "name": "currency-converter-pkg",
+    "version": "1.0.0",
+    "description": "An NPM package aimed towards converting currencies.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "npm run test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/p-soham11/currency-converter-pkg.git"
+    },
+    "keywords": [
+        "npm"
+    ],
+    "author": "Soham Pal",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/p-soham11/currency-converter-pkg/issues"
+    },
+    "homepage": "https://github.com/p-soham11/currency-converter-pkg#readme",
+    "dependencies": {
+        "@everapi/freecurrencyapi-js": "^1.0.1"
+    }
+}
